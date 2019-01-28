@@ -12,6 +12,6 @@ PMI - PMP related stuff
 	The idea is not new but this is how 
 	I compressed the PMBOK Guide version 5 to a single sheet of paper.
 - cheat sheet / PMP Cheat Sheet (PMBOK6) \
-	I have started the adaptation of my original cheat sheet to PMBOK 6.
+	I have started adapting my original cheat sheet to PMBOK 6.
 	Please do not hesitate to contact me, 
-	if you something is wrong or even missing.
+	if something is wrong or even missing.
