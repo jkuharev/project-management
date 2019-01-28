@@ -10,5 +10,8 @@ PMI - PMP related stuff
 	I created this document as the very last exam-prep 
 	look-up reference table. 
 	The idea is not new but this is how 
-	I compressed the PMBOK Guide version 5 to single sheet of paper.
-	You are welcome to adapt it to version 6.
+	I compressed the PMBOK Guide version 5 to a single sheet of paper.
+- cheat sheet / PMP Cheat Sheet (PMBOK6) \
+	I have started the adaptation of my original cheat sheet to PMBOK 6.
+	Please do not hesitate to contact me, 
+	if you something is wrong or even missing.
